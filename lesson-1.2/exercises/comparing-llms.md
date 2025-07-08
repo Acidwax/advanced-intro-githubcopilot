@@ -13,4 +13,5 @@ The most similar was the question that was entirely scientific and factual. The 
 I was surprised by C's answer to the nurse question provided a biased response on a nurse being a woman between a certain age. It did back this information with a 91% of nurses are women, but not citing a source on statistics like that is not good, and appears biased.
 
 ### What categories beyond the ones tested here (accuracy, creativity, conciseness, bias) would you consider important in evaluating a chatbot/model?
-You could test how it handles specific academic studies, how does it do with math questions? How does it do with english/literature questions? How does it do with science questions?
+You could test how it handles specific academic studies, how does it do with math questions? How does it do with english/literature questions? How does it do with science questions? 
+Complexity could be it's own category too. How complex of a question can you ask and does the bot fully breakdown every aspect or does it skip important pieces to the bigger picture.
